@@ -15,7 +15,7 @@ Fill in the required information and click on "Add Metadata", This will update M
 
 ## Note
 * Download the zip file, extract it and retain the img folder. Do not delete or move, else this application will not work. This is a limitation of tKinter package in Python.
-* This file contains .exe file so few of the antivirus is might identify it as virus. If dowloaded from this source, this is not a virus.
+* This file contains a .exe file so few of the antivirus might identify it as a virus. If downloaded from this source, this is not a virus.
 
 ## Developer Info
 This Application is created in python using PyPDF2 and tKinter Package (for GUI).
